@@ -5,4 +5,6 @@ The Main file that contains all of the code that I did will be "MainNotebook.ipy
 
 The streamlit application is "FP32Pred_app.py"
 
-I Have also included the Slides i intended to use for presentation earlier on and a detailed report that i wrote up.
+I Have also included the Slides I intended to use for the presentation earlier on and a detailed report that I wrote up.
+
+The original dataset is taken from https://www.kaggle.com/datasets/michaelbryantds/cpu-and-gpu-product-data
