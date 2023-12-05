@@ -10,7 +10,7 @@ I Have also included the Slides I intended to use for the presentation earlier o
 The original dataset is taken from https://www.kaggle.com/datasets/michaelbryantds/cpu-and-gpu-product-data
 
 
-#Skills demonstrated
+# Skills demonstrated
 - Familiarity with SciKit Learn
 - Pandas Libary
 - Data Exploration
